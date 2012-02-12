@@ -1,4 +1,3 @@
 Espresso
 Latte
 Americano
-Earl Grey
